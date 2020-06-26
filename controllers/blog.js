@@ -1,0 +1,4 @@
+
+exports.createBlog = (req,res) => {
+
+}
